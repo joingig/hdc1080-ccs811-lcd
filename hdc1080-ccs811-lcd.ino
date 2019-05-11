@@ -11,7 +11,7 @@ bsed on
 #include <Adafruit_CCS811.h>
 
 // initialize the library with the numbers of the interface pins
-LiquidCrystal lcd(12, 11, 5, 4, 3, 2);   // RS E DB4` DB5 DB6 DB7
+LiquidCrystal lcd(12, 11, 5, 4, 3, 2);   // RS E DB4 DB5 DB6 DB7
 
 ///////
 //HDC1080 Low Power High Accuracy Digital I2C Humidity and Temperature sensor
